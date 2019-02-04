@@ -20,8 +20,6 @@ pip3 install selenium
 
 [Gecodriver](http://github.com/mozilla/geckodriver/releases)
 
----
-Uncompress  Downloaded File
-Move File into /usr/bin or /usr/local/bin
----
+* Uncompress  Downloaded File
+* Move File into /usr/bin or /usr/local/bin
 
