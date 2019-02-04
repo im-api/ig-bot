@@ -23,3 +23,8 @@ pip3 install selenium
 * Uncompress  Downloaded File
 * Move File into /usr/bin or /usr/local/bin
 
+## Usage
+1. Go To The Directory of Project
+2. Edit Hashtags.py to Your Fav Hashtags
+3. Edit Comments.py to Your fav Comments
+4. Run Command ``` python3 ib.py  ``` and Follow the Process 
