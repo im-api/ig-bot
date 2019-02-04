@@ -2,7 +2,7 @@
 
 ## IG auto Like and Comment 
 
-**__ Notice __ :** Remember it Only Works on Linux or MacOS
+**__Notice__ :** Remember it Only Works on Linux or MacOS
 
 ## Requirements
 1. Linux OS or MacOS
