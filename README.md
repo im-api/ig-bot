@@ -28,3 +28,6 @@ pip3 install selenium
 2. Edit Hashtags.py to Your Fav Hashtags
 3. Edit Comments.py to Your fav Comments
 4. Run Command ``` python3 ib.py  ``` and Follow the Process 
+
+### Do You Have Issues With Script?
+if you see any issues in script , just open an issues. i will answer as soon as possible
